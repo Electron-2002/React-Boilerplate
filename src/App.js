@@ -5,7 +5,7 @@ import { Switch, Route } from 'react-router-dom';
 const App = () => {
     return (
         <Switch>
-            <Route to="/" exact component={() => <h1>Home Page</h1>} />
+            <Route path="/" exact component={() => <h1>Home Page</h1>} />
         </Switch>
     );
 };
