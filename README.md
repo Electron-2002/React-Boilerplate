@@ -68,6 +68,7 @@ npm start
 -   #### Code cleanup
 -   #### `react-router-dom` added
 -   #### Test route set up using: `BrowserRouter` `Switch` `Route`
+-   #### `prop-types` added for validation of props
 
 ## Redux Branch
 
